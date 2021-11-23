@@ -1,5 +1,7 @@
 It is cloudy and hot.
 It's also raining sulphuric acid!
-It'll give you a good squeeze too...
-We've got hints of phosphine too! -- if you subtract a background with a 12th order polynomial
+It'll give you a good shiver too...
+We've got hints of hehehehe too! -- if you subtract a with a 12th order polynomial
+What about just doing a single order polynomial?
+Great work everyone!
 
